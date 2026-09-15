@@ -1,4 +1,4 @@
-﻿import React, { useState } from 'react';
+import React, { useState } from 'react';
 import { ShoppingCart, Phone, Plus, Minus, Trash2 } from 'lucide-react';
 
 const COLORS = [
